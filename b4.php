@@ -1,7 +1,6 @@
-        <br><br>
 
         <div>
-            <h1>Recherche d'emploi </h1>
+           <br> <h1>Recherche d'emploi </h1><br>
         </div>
 
 		<br><br>

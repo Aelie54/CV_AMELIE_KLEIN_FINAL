@@ -1,7 +1,5 @@
-<br><br>
-
 <div>
-    <h1>Diplômes obtenus : </h1>
+    <br><h1>Diplômes obtenus : </h1><br>
 </div>
 
 <br>

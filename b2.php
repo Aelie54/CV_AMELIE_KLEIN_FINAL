@@ -1,7 +1,7 @@
-<br><br>
+
 <div style="align-text:center; text-align: center;">
-   
-<h1>Soft Skills : </h1>
+
+<br><h1>Soft Skills : </h1><br>
 
 <br>
 
@@ -32,22 +32,22 @@
 
 <div style="align-text:center; text-align: center;">
 
-    <p><span class= "gras">Dessin</span> 
-    <br><span class= "italique"> sur papier au stylo bille et sur tablette graphique (logiciel : Sketchbook)</span></p> 
+    <p><span class= "gras">Dessin</span>
+    <br><span class= "italique"> sur papier au stylo bille et sur tablette graphique (logiciel : Sketchbook)</span></p>
 
-    <p><span class= "gras">Lecture</span> 
-    <br><span class= "italique"> Imaginaire, mythologie nordique, webtoon </span></p> 
+    <p><span class= "gras">Lecture</span>
+    <br><span class= "italique"> Imaginaire, mythologie nordique, webtoon </span></p>
 
-    <p><span class= "gras">Musique</span> 
-    <br><span class= "italique"> Kalimba </span></p> 
+    <p><span class= "gras">Musique</span>
+    <br><span class= "italique"> Kalimba </span></p>
 
-    <p><span class= "gras">Cinéma</span> 
-    <br><span class= "italique"> De tous les genres mais Marvel's team! </span></p> 
+    <p><span class= "gras">Cinéma</span>
+    <br><span class= "italique"> De tous les genres mais Marvel's team! </span></p>
 
     <br><br>
 
 </div>
-                
+
 <input class="favorite styled b5" type="button" id="bouton4"  onclick="run5()" value="Retour">
 
 <br><br>

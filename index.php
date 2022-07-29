@@ -15,10 +15,8 @@
 
             <div class="flex-contain" id="introAK">
 
-                <br><br>
-
                 <div>
-                    <h1>En route pour une reconversion vers le développement Web</h1>
+                    <br><h1>En route pour une reconversion vers le développement Web</h1><br>
                 </div>
 
                 <br>
@@ -48,7 +46,7 @@
 
                     <p> J'ai eu la chance de mener un premier projet pour une entreprise lors de mon staged'un mois chez Aprex Solution (voir expériences profesionelles)</p><br>
 
-                    <p>Je suis maintenant à la recherche de mon premier emploi en tant que web dev débutant !</p><a style="text-decoration:underline; font-weight: bold; color:orange;" onclick="run4()">cliquez ici</a>
+                    <p>Je suis maintenant à la recherche de mon premier emploi en tant que web dev débutante !</p><a style="text-decoration:underline; font-weight: bold; color:orange;" onclick="run4()">cliquez ici</a>
 
                     <br><br>
                     Vous pouvez naviguer à travers ce petit site internet que j'ai réalisé pour découvrir mon parcours avant de commencer cette formation !

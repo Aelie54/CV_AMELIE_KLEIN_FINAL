@@ -1,6 +1,5 @@
-<br><br>
 <div>
-<h1> Expérience </h1>
+    <br><h1> Expérience </h1><br>
 </div>
 
 <br>
