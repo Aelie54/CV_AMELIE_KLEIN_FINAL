@@ -21,113 +21,144 @@
 }
 
 .bg1 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?landscape) no-repeat center fixed ;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?landscape) repeat-y top fixed ;
 }
 
 .bg2 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?sky) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?sky) repeat-y top fixed;
 }
 
 .bg3 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-    background: url(https://source.unsplash.com/random/1920x1080?sea) no-repeat center fixed;
+    /* margin: 0; */
+    background: url(https://source.unsplash.com/random/1920x1080?sea) repeat-y top fixed;
 }
 
 .bg4 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?forest) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?forest) repeat-y top fixed;
 }
 
 .bg5 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?colors) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?colors) repeat-y top fixed;
 }
 
 .bg6 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?sunrise) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?sunrise) repeat-y top fixed;
 }
 
 .bg7 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?nature) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?nature) repeat-y top fixed;
 }
 
 .bg8 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?flower) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?flower) repeat-y top fixed;
 }
 
 .bg9 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?design) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?design) repeat-y top fixed;
 }
 
 .bg10 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?modern) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?modern) repeat-y top fixed;
 }
 
 .bg11 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?futur) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?futur) repeat-y top fixed;
 }
 
 .bg12 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?sunset) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?sunset) repeat-y top fixed;
 }
 
 .bg13 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?work) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?work) repeat-y top fixed;
 }
 
 .bg14 {
-        position: relative;
+        /* position: absolute; */
+        margin-leauto:0px;
+    margin-right: auto;
         width: 100%;
-        margin: 0;
-         background: url(https://source.unsplash.com/random/1920x1080?snow) no-repeat center fixed;
+        /* margin: 0; */
+         background: url(https://source.unsplash.com/random/1920x1080?snow) repeat-y top fixed;
 }
 
 .bg15 {
-    position: relative;
+    /* position: absolute; */
+    margin-left :auto;
+    margin-right: auto;
     width: 100%;
-    margin: 0;
-     background: url(https://source.unsplash.com/random/1920x1080?winter) no-repeat center fixed;
+    /* margin: 0; */
+     background: url(https://source.unsplash.com/random/1920x1080?winter) repeat-y top fixed;
 }
 
 html, body {
 	height: 100%;
 	margin: 0; padding: 0;
+    background-color: black;
 }
 
 body {
@@ -393,41 +424,40 @@ letter-spacing: 0em;
   /* RESPONSIVE*/
   /*@media (orientation: landscape) and (max-width : 1200px) {}  /*1150*/
 
-  @media (max-aspect-ratio: 3/4) {
+@media (max-aspect-ratio: 3/4) {
 
-.styled {
-        width: 200px;
-        height: 60px;
-        box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.25);
-        border-radius: 10px;
-        border: none ;
-        margin:10px;
-        font-family: 'Lato', sans-serif;
-        font-size: 20pt;
-        font-style: normal;
-        letter-spacing: 0em;
+    .styled {
+            width: 200px;
+            height: 60px;
+            box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.25);
+            border-radius: 10px;
+            border: none ;
+            margin:10px;
+            font-family: 'Lato', sans-serif;
+            font-size: 20pt;
+            font-style: normal;
+            letter-spacing: 0em;
+            }
+
+    #Nom{
+            padding:0;
+            margin-left:100px;
+            font-size: 70pt;
+            font-family: 'Dancing Script', cursive;
+            color: rgb(0, 0, 0); text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.2em ;
         }
 
- #Nom{
-        padding:0;
-        margin-leftt:100px;
-        font-size: 70pt;
-        font-family: 'Dancing Script', cursive;
-        color: rgb(0, 0, 0); text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.2em ;
-    }
+    #mesboutons2flex{
+            display:block;
+            margin-top:20px;
+        }
 
-
-#mesboutons2flex{
-         display:block;
-         margin-top:20px;
-     }
-
- a, p, ul, li {
-        font-family: 'Dancing Script', cursive;
-        font-family: 'Lato', sans-serif;
-        text-decoration: none;
-        font-size: 22pt;
-    }
+    a, p, ul, li {
+            font-family: 'Dancing Script', cursive;
+            font-family: 'Lato', sans-serif;
+            text-decoration: none;
+            font-size: 22pt;
+        }
 
      /* #mesboutons2{
         display: flex;
@@ -451,9 +481,9 @@ letter-spacing: 0em;
         display : none
     }
 
-.article-contain{
-margin-top : 70px;
-}
+    .article-contain{
+    margin-top : 70px;
+    }
 
     .flex-body{
         margin:0;
@@ -609,42 +639,3 @@ margin-top : 70px;
     }
 
 }
-
-/*
-
-@media (orientation: landscape) and (max-width : 1100px) {  780
-
-    #mesboutons2flex{
-        display:block;
-        margin-top:20px;
-    }
-
-    #mesboutons2{
-       display: flex;
-       justify-content: center;
-       flex-direction:column;
-       align-items: center;
-   }
-
-        #avatar {
-            height: 100px;
-        }
-
-        #Nom{
-            font-size: 30pt;
-
-        }
-
-        .entête{
-            justify-content: center;
-        }
-
-        .article-contain{
-            margin-top: 10px;;
-        }
-
-        .flex-contain {
-            width: 90%;
-        }
-
-    }

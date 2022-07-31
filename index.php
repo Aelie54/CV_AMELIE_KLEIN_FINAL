@@ -41,10 +41,10 @@
                             <li> une approche également de Javascript et de la bibliothèque JQuerry pour modifier le DOM, et la découverte de la méthode Ajax, </li>
                             <li> la découvert de VueJS et de son système de store (Pinia) pour la création Front d'un site web et la consommation d'une API, avec un affichage adapté à l'utilisateur connecté en fonction de son rôle, </li>
                             <li> la création d'une API sur NodeJS avec système d'authentification. </li>
-                        </ul>
+                        </ul><br>
                 <p>
 
-                    <p> J'ai eu la chance de mener un premier projet pour une entreprise lors de mon staged'un mois chez Aprex Solution (voir expériences profesionelles)</p><br>
+                    <p> J'ai eu la chance de mener un premier projet pour une entreprise lors de mon stage d'un mois chez Aprex Solutions (voir la rubrique expériences profesionelles)</p><br>
 
                     <p>Je suis maintenant à la recherche de mon premier emploi en tant que web dev débutante !</p><a style="text-decoration:underline; font-weight: bold; color:orange;" onclick="run4()">cliquez ici</a>
 
